@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jasminexsh
-- 👀 I’m interested in Programmable Network, Distributed System, Multi-Agent Reinforcement Learning, Finanical RiskManagement
-- 🌱 I’m currently working for AntGroup.
+- 👀 I’m interested in Programmable Network, Distributed System, Multi-Agent Reinforcement Learning, Finanical RiskManagement, E-Commericial Trade System
+- 🌱 I’m currently working for Taobao&Tmall Group.
 - 📫 How to reach me email: shanghanxie7@163.com
 
 <!---
